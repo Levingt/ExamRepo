@@ -5,4 +5,3 @@ function findScreenHeight(widthScreen, ratio) {
     return `${widthScreen}x${resultSize}`;
 }
 
-console.log(findScreenHeight(1280,'16:9'));
